@@ -3,5 +3,5 @@ project(CS256_ProgrammingProject2_Problem2)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp)
+set(SOURCE_FILES MatrixOperations.cpp)
 add_executable(CS256_ProgrammingProject2_Problem2 ${SOURCE_FILES})
